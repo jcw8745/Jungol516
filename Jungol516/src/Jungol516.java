@@ -10,7 +10,7 @@ public class Jungol516 {
 		char c= sc.next().charAt(0);
 		
 		String str = sc.next();
-		char c1= str.charAt(0);
+	//	char c1= str.charAt(0);
 		
 		sc.close();
 		System.out.printf("%.2f\n",a);
